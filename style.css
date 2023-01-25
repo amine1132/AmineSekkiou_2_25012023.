@@ -230,20 +230,21 @@ width: 219px;
 color: #0065FC;
 width: 18px;
 height: 14.38px;
-margin-right: 20px;
+margin-right: 0px;
 }
 .lespluspopulaires{
 margin: 0;
 padding-bottom: 34px;
 background: #F2F2F2;
 border-radius: 20px;
-padding-left: 10px;
-padding-right: 10px;
+padding-left: 20px;
+padding-right: 20px;
+width: 100%;
 }
 .populairev2{
 display: flex;
 justify-content: center;
-width: 30%;
+width: 40%;
 }
 
 .soleildumatin{
@@ -970,8 +971,7 @@ margin-left: 10px;
 width: 100px;
 }
 .titre2{
-margin-left: 20px;
-
+margin-left: 0;
 }
 .titre2 i{
 margin-right: 10px;
@@ -1148,10 +1148,10 @@ margin-left: 20px;
 width: 100%;
 }
 .titre2{
-margin-left: 7px;
+margin-left: 0;
 }
 .titre2 i{
-margin-right: 20px;
+margin-right: 0px;
 }
 .lespluspopulaires{
 width: 100%;
@@ -1397,11 +1397,12 @@ display: none;
 }
 .activitesamarseille h1{
 width: 150px;
-margin-left: 25px;
 margin-top: 80px;
 }
 .activitesamarseille{
 margin: 0;
+padding-left: 20px;
+padding-right: 20px;
 }
 .groupe3{
 display: flex;
@@ -1414,7 +1415,7 @@ margin-bottom: 90px;
 .vieux-port {
 margin: 0;
 margin-bottom: 24px;
-width: 86%;
+width: 100%;
 height: 199px;
 }
 .vieux-port img{
@@ -1429,7 +1430,7 @@ margin-bottom: 0;
 .fortdepomegues{
 margin: 0;
 margin-bottom: 24px;
-width: 86%;
+width: 100%;
 height: 199px;
 }
 .fortdepomegues img{
@@ -1444,7 +1445,7 @@ margin-bottom: 0;
 .parcnationaldescalanques{
 margin: 0;
 margin-bottom: 24px;
-width: 86%;
+width: 100%;
 height: 199px;
 }
 .parcnationaldescalanques img{
@@ -1458,7 +1459,7 @@ margin-bottom: 0;
 }
 .notre-dame-de-la-garde{
 margin: 0;
-width: 86%;
+width: 100%;
 height: 199px;
 }
 .notre-dame-de-la-garde img{
