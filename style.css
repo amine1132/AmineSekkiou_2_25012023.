@@ -1042,6 +1042,10 @@ margin: 0;
 display: flex;
 justify-content: center;
 }
+.Booki img{
+width: 60px;
+height: 19px;
+}
 nav{
 display: flex;
 width: 100%;
