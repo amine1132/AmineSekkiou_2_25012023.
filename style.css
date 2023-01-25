@@ -6,7 +6,10 @@ padding: 0;
 margin: 0;
 width: 100%;
 }
-
+a{
+text-decoration: none;
+color: black;
+}
 .max{
 max-width: 1400px;
 margin: auto;
