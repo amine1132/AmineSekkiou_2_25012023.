@@ -255,8 +255,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 95%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
+cursor: pointer;
 }
 .soleildumatin img{
 object-fit: cover;
@@ -310,8 +310,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 95%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
+cursor: pointer;
 }
 .aucoeurdeleau img{
 object-fit: cover;
@@ -364,8 +364,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 95%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
+cursor: pointer;
 }
 .bleuetblanc img{
 object-fit: cover;
@@ -418,6 +418,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .lacanebiere img{
 object-fit: cover;
@@ -466,6 +467,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .hotelduport img {
 object-fit: cover;
@@ -512,6 +514,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .hotellesmouettes img {
 object-fit: cover;
@@ -558,6 +561,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .hoteldelamer img {
 object-fit: cover;
@@ -604,6 +608,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .aubergelepanier img {
 object-fit: cover;
@@ -651,6 +656,7 @@ filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 199px;
 padding: 4px;
+cursor: pointer;
 }
 .hotelchezamina img {
 object-fit: cover;
@@ -714,6 +720,9 @@ padding-left: 20px;
 padding-right: 20px;
 padding-bottom: 46px;
 }
+.hebergementsamarseille a{
+width: 100%;
+}
 .titre3 h2{
 margin-top: 42px;
 margin-left: 0px;
@@ -760,7 +769,8 @@ background-color: #FFFFFF;
 border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
-height: 444.51px; 
+height: 444.51px;
+cursor: pointer;
 }
 .vieux-port img{
 width: 100%;
@@ -781,7 +791,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 444.51px; 
-margin-left: 40px; 
+margin-left: 40px;
+cursor: pointer;
 }
 .fortdepomegues img{
 width: 100%;
@@ -802,7 +813,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 444.51px; 
-margin-left: 40px;  
+margin-left: 40px;
+cursor: pointer;  
 }
 .parcnationaldescalanques img{
 width: 100%;
@@ -823,7 +835,8 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 30%;
 height: 444.51px; 
-margin-left: 40px; 
+margin-left: 40px;
+cursor: pointer; 
 }
 .notre-dame-de-la-garde img{
 width: 100%;
@@ -1174,7 +1187,6 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 100%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
 margin-left: 0;
 }
@@ -1230,7 +1242,6 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 100%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
 margin-left: 0;
 }
@@ -1286,7 +1297,6 @@ border-radius: 20px;
 filter: drop-shadow(0px 3px 15px rgba(0, 0, 0, 0.1));
 width: 100%;
 height: 144px;
-max-height: 100%;
 margin-bottom: 10px;
 margin-left: 0;
 }
